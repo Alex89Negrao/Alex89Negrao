@@ -24,4 +24,4 @@ Você pode me encontrar no GitHub e LinkedIn. Fique à vontade para entrar em co
 - GitHub:(https://github.com/Alex89Negrao)
 - LinkedIn:(https://www.linkedin.com/in/alex-souza-923b2325a/)
 
-Vamos aprender e crescer juntos no mundo da programação!
+Explorar novas possibilidades no mundo da programação e continuar evoluindo!
