@@ -1,16 +1,27 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
 
-<!--
-**Alex89Negrao/Alex89Negrao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Alex;I'm+19+years+old;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre Mim
+Olá! Meu nome é Alex de Souza Negrão e sou um entusiasta da programação. Atualmente, estou estudando JavaScript na CubosAcademy e Ciências da Computação na Anhanguera. Tenho paixão por aprender novas tecnologias e explorar diferentes áreas da programação.
+
+## Formação Acadêmica
+- Estudante de JavaScript na CubosAcademy
+- Estudante de Ciências da Computação na Anhanguera
+
+## Linguagens e Tecnologias
+Aqui estão algumas das linguagens e tecnologias com as quais estou familiarizado:
+
+- C
+- Node.js
+- JavaScript (js)
+- SQL
+
+## Contato
+Você pode me encontrar no GitHub e LinkedIn. Fique à vontade para entrar em contato, compartilhar ideias ou discutir colaborações.
+
+- GitHub:(https://github.com/Alex89Negrao)
+- LinkedIn:(https://www.linkedin.com/in/alex-souza-923b2325a/)
+
+Vamos aprender e crescer juntos no mundo da programação!
